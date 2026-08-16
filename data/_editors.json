@@ -1,27 +1,32 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "List Owner: 00thestrongest",
         "link": "https://www.youtube.com/@00thestrongest"
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "List Admin/mod: 00thestrongest",
+        "link": "https://www.youtube.com/@00thestrongest"
+    },
+    {
+        "role": "admin",
+        "name": "List Admin/mod: velvetgd",
         "link": "https://www.youtube.com/@velvetGD-K4K7"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "List Helper: velvetgd",
         "link": "https://www.youtube.com/@velvetGD-K4K7"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "Trial List Helper: velvetgd",
         "link": "https://www.youtube.com/@velvetGD-K4K7"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "List Coder: velvetgd",
         "link": "https://www.youtube.com/@velvetGD-K4K7"
     }
 ]
