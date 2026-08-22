@@ -1,24 +1,18 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 147494356,
+    "name": "SFN thinking space 2",
+    "author": "velvetowo",
+    "creators": ["patrick382u"],
+    "verifier": "velvetowo",
+    "verification": "https://youtu.be/lGQLqIElco8?is=weXDs9lefH7CXza4",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "mase",
+            "link": "",
             "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "hz": 480
         }
     ]
 }
