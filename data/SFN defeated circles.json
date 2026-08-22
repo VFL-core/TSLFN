@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/zgNShH3Tj00",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "mase",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 480
+    }
+    ]
 }
