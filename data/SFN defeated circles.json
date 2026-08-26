@@ -1,18 +1,20 @@
 {
-    "id": 147399953,
-    "name": "SFN defeated circles",
-    "author": "zylogmdd",
-    "creators": ["00thestrongest", "zylogmdd"],
-    "verifier": "willsterGD",
-    "verification": "https://youtu.be/zgNShH3Tj00",
+    "id": 147535517,
+    "name": "SFM poocubed",
+    "author": "masegd69",
+    "creators": [
+        "DUY1002"
+    ],
+    "verifier": "mase",
+    "verification": "https://youtu.be/lNwwGddZpnw",
     "percentToQualify": 100,
-    "password": "Copyable",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "mase",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "voodoobana",
+            "link": "https://medal.tv/games/geometry-dash/clips/nnqBLjUfpRXshH5Yz?invite=cr-MSxFdXMsNDc1MjE0MTY5",
             "percent": 100,
             "hz": 480
-    }
+        }
     ]
 }
