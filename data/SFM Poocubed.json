@@ -2,13 +2,11 @@
     "id": 147535517,
     "name": "SFM poocubed",
     "author": "masegd69",
-    "creators": [
-        "DUY1002"
-    ],
+    "creators": ["DUY1002"],
     "verifier": "mase",
     "verification": "https://youtu.be/lNwwGddZpnw",
-    "percentToQualify": 100,
-    "password": "Free To Copy",
+    "percentToQualify": "100",
+    "password": "free to copy",
     "records": [
         {
             "user": "voodoobana",
