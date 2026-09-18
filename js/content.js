@@ -57,7 +57,7 @@ export async function fetchLeaderboard() {
             return;
         }
 
-        // Verification (+10 verifier bonus added)
+        // Verification (+25 verifier bonus added)
         const verifierKey = Object.keys(scoreMap).find(
             (u) => u.toLowerCase() === level.verifier.toLowerCase(),
         );
@@ -72,7 +72,7 @@ export async function fetchLeaderboard() {
         verified.push({
             rank: rank + 1,
             level: level.name,
-            score: score(rank + 1, 100, level.percentToQualify) + 10,
+            score: score(rank + 1, 100, level.percentToQualify) + 25,
             link: level.verification,
         });
 
