@@ -8,11 +8,9 @@ const scale = 3;
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
  * @param {Number} minPercent Minimum percentage required
- * @param {Object|String} [levelOrUser] Optional level JSON object OR player username
- * @param {String} [userName] Optional player username if 4th arg is level object
  * @returns {Number}
  */
-export function score(rank, percent, minPercent, levelOrUser, userName) {
+export function score(rank, percent, minPercent) {
     if (rank > 150) {
         return 0;
     }
@@ -20,26 +18,16 @@ export function score(rank, percent, minPercent, levelOrUser, userName) {
         return 0;
     }
 
+    // Old formula
+    /*
+    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
+        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    */
     // New formula
-    let score = (-24.9975 * Math.pow(rank - 1, 0.4) + 200) *
+    let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
-
-    // Auto-detect verifier: checks if player name matches level verifier name
-    let isVerifier = false;
-    if (typeof levelOrUser === 'object' && levelOrUser?.verifier && userName) {
-        isVerifier = levelOrUser.verifier.trim().toLowerCase() === userName.trim().toLowerCase();
-    } else if (typeof levelOrUser === 'string' && typeof userName === 'string') {
-        isVerifier = levelOrUser.trim().toLowerCase() === userName.trim().toLowerCase();
-    } else if (typeof levelOrUser === 'boolean') {
-        isVerifier = levelOrUser;
-    }
-
-    // Add 10 points for verifiers
-    if (isVerifier) {
-        score += 10;
-    }
 
     if (percent != 100) {
         return round(score - score / 3);
@@ -64,4 +52,3 @@ export function round(num) {
         );
     }
 }
-

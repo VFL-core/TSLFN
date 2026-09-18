@@ -57,12 +57,10 @@ export async function fetchLeaderboard() {
             return;
         }
 
-        // Verification (+25 verifier bonus added)
-        const verifierKey = Object.keys(scoreMap).find(
+        // Verification
+        const verifier = Object.keys(scoreMap).find(
             (u) => u.toLowerCase() === level.verifier.toLowerCase(),
-        );
-        const verifier = verifierKey || level.verifier;
-
+        ) || level.verifier;
         scoreMap[verifier] ??= {
             verified: [],
             completed: [],
@@ -72,17 +70,15 @@ export async function fetchLeaderboard() {
         verified.push({
             rank: rank + 1,
             level: level.name,
-            score: score(rank + 1, 100, level.percentToQualify) + 25,
+            score: score(rank + 1, 100, level.percentToQualify),
             link: level.verification,
         });
 
         // Records
         level.records.forEach((record) => {
-            const userKey = Object.keys(scoreMap).find(
+            const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
-            );
-            const user = userKey || record.user;
-
+            ) || record.user;
             scoreMap[user] ??= {
                 verified: [],
                 completed: [],
