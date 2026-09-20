@@ -1,18 +1,12 @@
 {
-    "id": 147603153,
-    "name": "SFE injury",
-    "author": "willsterGD",
-    "creators": ["gild56"],
-    "verifier": "willstergd",
-    "verification": "https://youtu.be/s464DswJUMI",
+    "id": 149160394,
+    "name": "SFE britney no sclears",
+    "author": "mase",
+    "creators": ["wilstergd"],
+    "verifier": "mase",
+    "verification": "https://youtu.be/CMUpwmnDtgY",
     "percentToQualify": "100",
     "password": "free to copy",
     "records": [
-        {
-            "user": "mase",
-            "link": "https://youtu.be/ln7fjZrSsWQ",
-            "percent": 100,
-            "hz": 480
-        }
     ]
 }
