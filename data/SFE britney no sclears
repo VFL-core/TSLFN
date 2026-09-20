@@ -1,0 +1,18 @@
+{
+    "id": 147603153,
+    "name": "SFE injury",
+    "author": "willsterGD",
+    "creators": ["gild56"],
+    "verifier": "willstergd",
+    "verification": "https://youtu.be/s464DswJUMI",
+    "percentToQualify": "100",
+    "password": "free to copy",
+    "records": [
+        {
+            "user": "mase",
+            "link": "https://youtu.be/ln7fjZrSsWQ",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
