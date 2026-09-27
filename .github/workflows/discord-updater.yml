@@ -1,0 +1,32 @@
+name: Update Discord Top 5
+on:
+  push:
+    paths:
+      - 'data/_list.json' # Triggers automatically when you edit your list
+
+jobs:
+  update-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository code
+        uses: actions/checkout@v4
+
+      - name: Parse JSON and Post to Discord
+        run: |
+          # Grabs the first 5 entries from your _list.json file using jq
+          TOP5=$(jq -r '.[0:5] | to_entries | map("#\(.key + 1). **\(.value)**") | join("\\n")' data/_list.json)
+          
+          # Formats the raw payload safely
+          PAYLOAD=$(cat <<EOF
+          {
+            "content": "**🏆 Live TSLFN Geometry Dash List - Top 5**\\n\\n$TOP5"
+          }
+          EOF
+          )
+          
+          # Overwrites your message directly via Discord Webhook Patch
+          curl -H "Content-Type: application/json" \
+               -X PATCH \
+               -d "$PAYLOAD" \
+               "https://discord.com"
+               
