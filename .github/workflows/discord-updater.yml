@@ -1,0 +1,14 @@
+name: Create Initial Discord Message
+on: push # Run it once right now
+
+jobs:
+  create-msg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send New Message
+        run: |
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d '{"content": "⌛ Setting up the TSLFN Top 5 tracker... Please wait."}' \
+               "https://discord.com"
+               
