@@ -9,5 +9,12 @@
   
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "7H9IG",
+            "link": "https://www.youtube.com/watch?v=VF9OyGBccPg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
