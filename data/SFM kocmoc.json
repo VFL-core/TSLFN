@@ -1,5 +1,5 @@
 {
-    "id": 150163170,
+    "id": ,
     "name": "SFM kocmoc",
     "author": "velvetOwo",
     "creators": ["velvetOwo"],
@@ -9,10 +9,11 @@
     "password": "Copyable",
     "records": [
         {
-            "user": "WillsterGD",
+            "user": "willsterGD",
             "link": "https://youtu.be/CaKeEyqZBAw",
-            "percent" 100,
+            "percent": 100,
             "hz": 144
-        }
+
+        }   
     ]
 }
