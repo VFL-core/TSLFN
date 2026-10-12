@@ -20,14 +20,16 @@
             "percent": 100,
             "hz": 240
     },
-        "user": "Nominal",
+        {
+            "user": "Nominal",
             "link": "https://www.youtube.com/watch?v=Sfd6VtgLzqU",
             "percent": 100,
             "hz": 60
-        },
-    "user": "ChillaxGMD",
+    },
+        {
+            "user": "ChillaxGMD",
             "link": "https://www.youtube.com/watch?v=HFSS3fcMmXQ&t=4s",
             "percent": 100,
             "hz": 60
-        }
-}
+    }
+
