@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=Sfd6VtgLzqU",
             "percent": 100,
             "hz": 60
+    },
+        {
+            "user": "ChillaxGMD",
+            "link": "https://www.youtube.com/watch?app=desktop&v=HFSS3fcMmXQ&ra=m",
+            "percent": 100,
+            "hz": 60
     }
     ]
 }
