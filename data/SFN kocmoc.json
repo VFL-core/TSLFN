@@ -14,6 +14,13 @@
             "percent": 100,
             "hz": 144
 
-        }   
+        },
+        {
+            "user": "Nominal",
+            "link": "https://www.youtube.com/watch?v=YX7g6Jn7rd0",
+            "percent": 100,
+            "hz": 60
+
+        }
     ]
 }
