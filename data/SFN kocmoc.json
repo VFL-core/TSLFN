@@ -1,0 +1,19 @@
+{
+    "id": 150402141,
+    "name": "SFN kocmoc",
+    "author": "velvetOwo",
+    "creators": ["velvetOwo"],
+    "verifier": "velvetOwo",
+    "verification": "https://youtu.be/spYGwB53e_A?is=18RuN5m-LcTjp0YA",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "willsterGD",
+            "link": "https://youtu.be/CaKeEyqZBAw",
+            "percent": 100,
+            "hz": 144
+
+        }   
+    ]
+}
