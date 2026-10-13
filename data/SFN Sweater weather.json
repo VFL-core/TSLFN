@@ -63,6 +63,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": false
+        },
+        {
+            "user": "rpg5",
+            "link": "https://www.youtube.com/watch?v=z_pav03K00A",
+            "percent": "100",
+            "hz": 240,
+            "mobile": false
         }
     ]
     
