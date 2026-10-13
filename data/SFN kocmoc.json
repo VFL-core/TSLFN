@@ -33,6 +33,12 @@
             "link": "https://www.youtube.com/watch?v=FWfRBFzM5bY",
             "percent": "100",
             "hz": 480
+        },
+        {
+            "user": "Rat",
+            "link": "https://www.youtu.be/dyXbAHix3tc?si=Pl46xnfvEbDJEet",
+            "percent": 100,
+            "hz": 165
         }
     ]        
 }
