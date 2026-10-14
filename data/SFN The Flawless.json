@@ -7,5 +7,13 @@
     "verification": "https://medal.tv/games/screen-capture/clips/nIhtj8C9xaev3nGov?invite=cr-MSxyMW8sNDA5NjQzOTc3",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "JackybGD",
+            "link": "https://www.youtube.com/watch?v=UGQRYRinECg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
+    ]
 }
