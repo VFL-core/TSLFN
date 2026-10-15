@@ -26,7 +26,8 @@
             "user": "JackybGD",
             "link": "https://www.youtube.com/watch?v=QlkLhmgDFgI",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "mase",
@@ -39,6 +40,12 @@
             "link": "https://www.youtube.com/watch?v=dyXbAHix3tc",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "bloom",
+            "link": "https://medal.tv/games/geometry-dash/clips/nJacu3GgTNu3eSQVi?invite=cr-MSxJVWUsNTQyMzI1NzE1",
+            "percent": 100,
+            "hz": 240
         }
     ]        
 }
