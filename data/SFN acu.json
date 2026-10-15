@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=oTZAU58AwMM",
             "percent": 100,
             "hz": 60
-        }   
+        },
+        {
+            "user": "rpg5",
+            "link": "https://www.youtube.com/watch?v=lBaJCu6mEOI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
