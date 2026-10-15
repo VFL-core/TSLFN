@@ -26,7 +26,8 @@
             "user": "JackybGD",
             "link": "https://www.youtube.com/watch?v=QlkLhmgDFgI",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "mase",
