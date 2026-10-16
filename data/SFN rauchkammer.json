@@ -1,11 +1,33 @@
 {
     "id": 150575062,
     "name": "SFN rauchkammer",
-    "author": "Unknown for now",
-    "creators": ["Unknown for now"],
+    "author": "bloom",
+    "creators": ["bloom"],
     "verifier": "bloom",
     "verification": "https://www.youtube.com/watch?v=YQ5S74zBTgM",
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "velvetOwo",
+            "link": "https://youtu.be/B88BTa4mnME?is=2RV9JR5Pk_UEGt1u",
+            "percent": 100,
+            "hz": 144,
+            "mobile": true
+        },
+        {
+            "user": "JackybGD",
+            "link": "https://www.youtube.com/watch?v=NqtqmxFcpjE",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "ChillaxGMD",
+            "link": "https://www.youtube.com/watch?v=wlJtjUqTEuE",
+            "percent": 100,
+            "hz": 120,
+            "mobile": false
+        }
+    ]
 }

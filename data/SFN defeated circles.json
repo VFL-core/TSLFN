@@ -44,6 +44,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+    },
+    {
+            "user": "bloom",
+            "link": "https://medal.tv/games/geometry-dash/clips/nJvz8SX2izZ7SAksE?invite=cr-MSw5bzQsNTQyMzI1NzE1",
+            "percent": 100,
+            "hz": 240
     }
     ]
 }
