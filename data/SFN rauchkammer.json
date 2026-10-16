@@ -42,6 +42,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": false
+        },
+        {
+            "user": "trickelopolis",
+            "link": "https://www.youtube.com/shorts/HEvhQqccdeg"
+            "percent": 100,
+            "hz": 60,
+            "mobile": false
         }
     ]
 }
