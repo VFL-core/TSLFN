@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/ImJh5nS0pRE",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "rpg5",
+            "link": "https://www.youtube.com/watch?v=s3Tv-EFaL2s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }

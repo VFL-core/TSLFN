@@ -28,6 +28,26 @@
             "percent": 100,
             "hz": 120,
             "mobile": false
+        },
+        {
+            "user": "zn4",
+            "link":"https://youtu.be/u92wG55CqtU?si=DkB0CLuTZPm1MvCo",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "7H9IG",
+            "link": "https://medal.tv/games/geometry-dash/clips/nJMpaFzZ7M8iHEf5D?invite=cr-MSxYd2UsNDA5NjQzOTc3",
+            "percent": 100,
+            "hz": 60,
+            "mobile": false
+        },
+        {
+            "user": "trickelopolis",
+            "link": "https://www.youtube.com/watch?v=HEvhQqccdeg",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
