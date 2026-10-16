@@ -28,6 +28,13 @@
             "percent": 100,
             "hz": 120,
             "mobile": false
+        },
+        {
+            "user": "zn4",
+            "link":https://youtu.be/u92wG55CqtU?si=DkB0CLuTZPm1MvCo",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
