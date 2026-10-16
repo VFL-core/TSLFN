@@ -20,6 +20,13 @@
             "link": "https://www.youtube.com/watch?v=lBaJCu6mEOI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "zn4",
+            "link": "https://www.youtube.com/watch?v=YD-DBru5V_4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
