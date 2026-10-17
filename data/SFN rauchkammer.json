@@ -48,6 +48,12 @@
             "link": "https://www.youtube.com/watch?v=HEvhQqccdeg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "rpg5",
+            "link": "https://www.youtube.com/watch?v=X0mqG2V-91A",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
