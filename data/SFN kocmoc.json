@@ -58,6 +58,12 @@
             "link": "https://www.youtube.com/watch?v=JGONd9frkdA",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "LNFgaming2",
+            "link": "https://www.youtube.com/watch?v=klSukjAaIF0",
+            "percent": 100,
+            "hz": 60
         }
     ]        
 }
