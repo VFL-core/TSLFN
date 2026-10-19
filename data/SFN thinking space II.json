@@ -18,8 +18,15 @@
             "user": "JackybGD",
             "link": "https://youtu.be/1RKtjmh86r8?is=IKes40jHmQ1FE4ca",
             "percent": 100,
-            "hz": 69,
+            "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "trickelopolis",
+            "link": "https://youtube.com/shorts/1CbohLOtBts?si=8WG0zXXiWDiAKVcs",
+            "percent": 100,
+            "hz": 60,
+            "mobile": false
         }
     ]
 }
