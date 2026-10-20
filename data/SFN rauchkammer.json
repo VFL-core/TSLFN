@@ -60,6 +60,12 @@
             "link": "https://www.youtube.com/watch?v=SEgxgRq7hnU",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "max",
+            "link": "https://youtube.com/shorts/7WWTmKO7j58?si=29GPv3PYpz-qBZOQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
