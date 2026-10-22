@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=cnZHODncz_g",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "willstergd",
+            "link": "https://youtu.be/S-njCIasCwU",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
 }
