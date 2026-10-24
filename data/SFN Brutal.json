@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=7GgQwYlWg1U",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "LNFgaming2",
+            "link": "https://www.youtube.com/watch?v=f30cYNSC-CQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
