@@ -25,6 +25,12 @@
             "link": "https://youtu.be/P8IGkiHttNY?si=W3bI-9CgRyUWDbDt",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "slush",
+            "link": "https://www.youtube.com/watch?v=dGrp-NjXDJw",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
