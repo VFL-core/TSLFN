@@ -1,0 +1,36 @@
+{
+    "id": 151001941,
+    "name": "SFN Denouement",
+    "author": "bloom",
+    "creators": ["bloom"],
+    "verifier": "bloom",
+    "verification": "https://www.youtube.com/watch?v=cnZHODncz_g",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "willstergd",
+            "link": "https://youtu.be/S-njCIasCwU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "7H9IG",
+            "link": "https://medal.tv/games/screen-capture/clips/nMkVSlScsCJi2cl08?invite=cr-MSxiRWgsNDA5NjQzOTc3",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LNFgaming2",
+            "link": "https://youtu.be/P8IGkiHttNY?si=W3bI-9CgRyUWDbDt",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "slush",
+            "link": "https://www.youtube.com/watch?v=dGrp-NjXDJw",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
