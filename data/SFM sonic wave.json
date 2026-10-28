@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free to copy",
     "records": [
+        {
+            "user": "Nominal",
+            "link": "https://youtu.be/tdQpevtQSyI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
     ]
 }
