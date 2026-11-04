@@ -35,9 +35,14 @@
         {
             "user": "velvetOwo",
             "link": "https://www.youtube.com/watch?v=dGrp-NjXDJw",
-            "user": "velvetOwo",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "opt1calGMD",
+            "link": "https://youtu.be/gEmHdx23tVw",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
