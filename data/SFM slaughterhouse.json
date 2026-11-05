@@ -7,5 +7,20 @@
     "verification": "https://www.youtube.com/watch?v=1LLDBE8jFZY",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+
+
+        {
+            
+            "name": "osintlarp",
+             "link": "https://youtu.be/QVowip7ruxA",
+            "percent": 100,
+            "hz": 144
+
+         
+
+        }
+    ]
+        
+
 }
