@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps, no shaders, no partices, and no mirrror is allowed, (unless the mirror portal changes the difficulty significantly.)
+                        Achieved the record without using hacks (however, FPS bypass is allowed) no shaders, no partices, and no mirrror is allowed, (unless the mirror portal changes the difficulty significantly.)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
