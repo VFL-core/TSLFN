@@ -28,6 +28,19 @@
             "percent": 100,
             "hz": 60,
             "mobile": false
+        },
+
+
+
+        {
+          "user": "Mase",
+          "link": "https://youtu.be/mFqQTaK4V_E",
+          "percent": 100,
+          "hz": 480
+
+
+
+
         }
     ]
 }
