@@ -24,6 +24,13 @@
     "hz": 60,
     "mobile":true
     
+},
+{
+    "user": "opt1calGMD",
+    "link": "https://youtu.be/HsRtSudPfe0",
+    "percent": 100,
+    "hz": 60,
+    "mobile":false
 }
     ]
 }
