@@ -99,10 +99,12 @@
             "link": "https://youtu.be/WrG8MEN7rmI?si=GugkLHN99WNqrsi0",
             "percent": 100,
             "hz": 60
-            
-
-
-
+        },
+        {
+            "user": "The One Shoe Blues",
+            "link": "https://www.youtube.com/watch?v=f2ZWOUK2_3g",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
