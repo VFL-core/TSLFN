@@ -21,6 +21,13 @@
             "percent": 100,
             "hz": 144,
             "mobile": true
+        },
+        {
+            "user": "The One Shoe Blues",
+            "link": "https://www.youtube.com/watch?v=gIPIbiBcXpc",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
         }
     ]
 }
