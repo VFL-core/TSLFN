@@ -31,6 +31,18 @@
     "percent": 100,
     "hz": 60,
     "mobile":false
+},
+
+{
+  "user":"RAIK",
+  "link":"https://www.youtube.com/watch?v=EuSWJC9VE2I",
+  "percent":100,
+  "hz":480,
+  "mobile": false
+  
+
+
+
 }
     ]
 }
