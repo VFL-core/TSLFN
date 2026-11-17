@@ -105,6 +105,33 @@
             "link": "https://www.youtube.com/watch?v=f2ZWOUK2_3g",
             "percent": 100,
             "hz": 240
-        }
+
+
+
+
+        },
+
+
+
+
+        {
+        "user": "Nautical",
+        "link":"https://medal.tv/games/geometry-dash/clips/nWIASJRQePCHbg7AE?invite=cr-MSxsUWgsNjM4Njc5NTM3",
+        "percent":100,
+        "hz": "240"
+        
+         },
+
+
+         {
+          "user": "WistiX",
+          "link": "https://www.youtube.com/shorts/7rq8a5dpr2I",
+          "percent": 100,
+          "hz": 60
+
+
+
+
+         }
     ]
 }
